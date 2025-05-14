@@ -27,7 +27,7 @@ const scene = new THREE.Scene();
  * Textures
  */
 const textureLoader = new THREE.TextureLoader();
-const particleTexture = textureLoader.load("/textures/particles/1.png");
+const particleTexture = textureLoader.load("textures/particles/1.png");
 
 const camera = new THREE.PerspectiveCamera(
   75,
@@ -135,7 +135,7 @@ controls.enableDamping = true;
 /**
  * Audio
  */
-const audio = new Audio("/audio/Cosmic Reflection.mp3");
+const audio = new Audio("audio/Cosmic Reflection.mp3");
 audio.loop = true;
 audio.volume = 0.8;
 

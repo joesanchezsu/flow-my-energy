@@ -32,7 +32,7 @@ from ego to source, from separation to unity, from noise to resonance.
 
 ## 🖼 Live Demo
 
-(Insert link here)
+https://joesanchezsu.github.io/flow-my-energy/
 
 Made with joy and curiosity ✨
 
