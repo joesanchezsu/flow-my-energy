@@ -143,9 +143,9 @@ const playBtn = document.getElementById("togglePlay");
 const volumeBtn = document.getElementById("toggleVolume");
 const restartBtn = document.getElementById("restart");
 
-playBtn.style.display = "none";
-restartBtn.style.display = "none";
-volumeBtn.style.opacity = "0";
+// playBtn.style.display = "none";
+// restartBtn.style.display = "none";
+// volumeBtn.style.opacity = "0";
 let isMuted = true;
 
 playBtn.addEventListener("click", () => {
