@@ -14,7 +14,7 @@ const sizes = {
   height: window.innerHeight,
 };
 
-const lerpSpeedBase = 0.0025;
+const lerpSpeedBase = 0.0014;
 let lerpSpeed = (sizes.width * lerpSpeedBase) / 1000; // organization speed
 
 // Canvas
